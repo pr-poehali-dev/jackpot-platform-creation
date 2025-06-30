@@ -65,12 +65,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-        gaming: {
-          purple: "#8B5CF6",
-          pink: "#D946EF",
-          orange: "#F97316",
-          dark: "#1A1F2C",
-          "dark-card": "#2A2F3C",
+        auto: {
+          blue: "#2563EB",
+          red: "#DC2626",
+          gray: "#6B7280",
+          dark: "#1F2937",
+          orange: "#EA580C",
+          green: "#16A34A",
+          light: "#F8FAFC",
         },
       },
       borderRadius: {
